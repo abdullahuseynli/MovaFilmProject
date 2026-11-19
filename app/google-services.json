@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762755327875",
+    "project_id": "mova-afbdb",
+    "storage_bucket": "mova-afbdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762755327875:android:2850b6849a7b88660578b6",
+        "android_client_info": {
+          "package_name": "com.example.mova_projectfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGJeokPPd27Y4X_e44ynlpuUeqD1O7wZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
